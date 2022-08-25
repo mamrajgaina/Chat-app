@@ -1,0 +1,5 @@
+[INFORMATION]
+Projects=Charizard_KLS;Charmeleon_KLS;Freed_KLS;Sienna_KLS;Sienta_KLS;
+OSs=Windows 10 All X64;
+WHQL=Y,
+ProviderFullName=Intel
